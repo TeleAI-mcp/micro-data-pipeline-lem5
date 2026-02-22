@@ -1,2 +1,3 @@
-# micro-data-pipeline-lem5
-Automated issue comment bot repository
+# Micro Data Pipeline Lem5
+
+Automated issue comment bot repository.
